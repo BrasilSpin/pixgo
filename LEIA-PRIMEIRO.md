@@ -17,8 +17,8 @@ const PRODUTO = {
   nome: "Curso Completo de XYZ",       // 👈 seu produto
   valor: 19.90,                          // 👈 preço em reais
   cliente_nome: "Cliente Loja",
-  cliente_cpf: "00000000000",            // 👈 CPF/CNPJ da SUA empresa (11 dígitos)
-  cliente_email: "loja@suaempresa.com",  // 👈 email da SUA loja
+  cliente_cpf: "57541165000",            // 👈 CPF/CNPJ da SUA empresa (11 dígitos)
+  cliente_email: "pobocag811@anawebs.com",  // 👈 email da SUA loja
 };
 ```
 

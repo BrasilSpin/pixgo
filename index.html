@@ -488,6 +488,10 @@
     let pollInterval = null;
     let timerInterval = null;
     let expiresAt = null;
+    
+    window.addEventListener('DOMContentLoaded', () => {
+  gerarPix();
+});
 
     // ========== AÇÕES ==========
     async function gerarPix() {

@@ -17,7 +17,7 @@ const PRODUTO = {
   // Dados genéricos do "comprador" (a PixGo exige esses campos).
   // Use o CPF/CNPJ da sua empresa.
   cliente_nome: "Cliente Loja",
-  cliente_cpf: "509166.58031",     // 👈 11 dígitos sem pontuação
+  cliente_cpf: "50916658031",     // 👈 11 dígitos sem pontuação
   cliente_email: "pobocag811@anawebs.com",
 };
 // ========================================

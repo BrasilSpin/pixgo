@@ -11,7 +11,7 @@
 // 👇 CONFIGURE SEU PRODUTO AQUI 👇
 // ========================================
 const PRODUTO = {
-  nome: "Validação, // 👈 nome do seu produto
+  nome: "Validação", // 👈 nome do seu produto
   valor: 19.90,                    // 👈 preço em reais
   
   // Dados genéricos do "comprador" (a PixGo exige esses campos).

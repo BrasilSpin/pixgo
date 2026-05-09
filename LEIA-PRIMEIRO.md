@@ -15,7 +15,7 @@ Abra `api/pix.js` e edite o bloco no topo:
 ```js
 const PRODUTO = {
   nome: "Curso Completo de XYZ",       // 👈 seu produto
-  valor: 47.00,                          // 👈 preço em reais
+  valor: 19.90,                          // 👈 preço em reais
   cliente_nome: "Cliente Loja",
   cliente_cpf: "00000000000",            // 👈 CPF/CNPJ da SUA empresa (11 dígitos)
   cliente_email: "loja@suaempresa.com",  // 👈 email da SUA loja
@@ -23,8 +23,8 @@ const PRODUTO = {
 ```
 
 E em `index.html`, opcionalmente edite (Ctrl+F):
-- `Curso Completo de XYZ` → nome do produto
-- `47,00` → preço
+- `Curso Completo` → nome do produto
+- `19,90` → preço
 - `📚` → emoji/ícone do produto
 - `Sua Loja` → nome da loja
 - A descrição do produto, benefícios, etc.
